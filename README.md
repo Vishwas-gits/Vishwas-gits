@@ -21,7 +21,6 @@ Hi 👋 I'm VISHWAJITH
 * 💻 Passionate about **Programming and Web Development**
 * 🚀 Currently improving **problem solving skills**
 * 🤖 Built AI project **AIMind**
-* 🔧 Developing **CodeWord**
 * 🌱 Continuously learning new technologies
 * 📍 India
 
