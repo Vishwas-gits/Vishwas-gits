@@ -47,31 +47,11 @@ Hi 👋 I'm VISHWAJITH
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishwas-gits&show_icons=true&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwas-gits&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwas-gitsE&layout=compact&theme=tokyonight"/>
 
 </p>
 
