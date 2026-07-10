@@ -20,7 +20,6 @@ Hi 👋 I'm VISHWAJITH
 * 🎓 Computer Science Student
 * 💻 Passionate about **Programming and Web Development**
 * 🚀 Currently improving **problem solving skills**
-* 🤖 Built AI project **AIMind**
 * 🌱 Continuously learning new technologies
 * 📍 India
 
@@ -29,9 +28,12 @@ Hi 👋 I'm VISHWAJITH
 ## 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c" height="55"/>
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
+  <img src="https://skillicons.dev/icons?i=c" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+</p>
 
 ---
 
