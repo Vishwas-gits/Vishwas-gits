@@ -32,8 +32,6 @@ Hi 👋 I'm VISHWAJITH
 <img src="https://skillicons.dev/icons?i=c" height="55"/>
 <img src="https://skillicons.dev/icons?i=html" height="55"/>
 <img src="https://skillicons.dev/icons?i=css" height="55"/>
-<img src="https://skillicons.dev/icons?i=js" height="55"/>
-</p>
 
 ---
 
